@@ -1,0 +1,47 @@
+
+BattleDog.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dogP1
+  rotate: false
+  xy: 1, 30
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 113, 45
+  size: 96, 81
+  orig: 96, 81
+  offset: 0, 0
+  index: -1
+dogP2
+  rotate: false
+  xy: 211, 54
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+item
+  rotate: false
+  xy: 211, 1
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+shotP2
+  rotate: false
+  xy: 313, 34
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+shotP1
+  rotate: false
+  xy: 378, 36
+  size: 62, 90
+  orig: 62, 90
+  offset: 0, 0
+  index: -1
